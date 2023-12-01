@@ -9,5 +9,8 @@
 <body>
 	<h1>in test002</h1>
 	<h1>Hello, World!</h1>
+	<h1>Hello, World!</h1>
+	<h1>auto test</h1>
+	<h1>Hello, World!</h1>
 </body>
 </html>
